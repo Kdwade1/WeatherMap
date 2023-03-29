@@ -1,0 +1,3 @@
+const MAPBOX_KEY =''
+const OPEN_WEATHER_APPID=''
+const LIKINDIN_KEY=''
